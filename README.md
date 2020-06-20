@@ -13,4 +13,7 @@ python3 serv_init.py
 Then start the clients and provide Queries:
 ```
 python3 client.py
+put abc x y z
+get abc
 ```
+For put requests the format is "put <key> <values_space_seperated>" and for get requets the format is "<get> <key>"
