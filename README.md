@@ -7,11 +7,10 @@ A setup of Python3 with HTTP and Requests module is needed along with Zookeeper 
 To run: 
 
 First start the servers
-'''
+```
 python3 serv_init.py
-'''
+```
 Then start the clients and provide Queries:
-'''
+```
 python3 client.py
-
-'''
+```
